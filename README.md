@@ -1,7 +1,7 @@
 # Entregavel 03: Ambientes e Desenvolvimento de Software
 
 ## Passo 01:
-Primeiro irá copiar e depois colar no o seu Visual Studio Code.
+Primeiro irá copiar o arquivo "app.js" e depois colar no o seu Visual Studio Code.
 
 ## Passo02:
 No seu editor de texto, você irá abrir o terminal e executará o comando `npm init -y` para criar um novo **projeto NPM**.
