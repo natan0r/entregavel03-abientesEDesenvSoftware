@@ -1,0 +1,24 @@
+{
+  "name": "site-soma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2"
+  },
+  "description": "Primeiro irá baixar arquivo e mandar para o seu Visual Studio Code.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natan0r/Entregavel03-AmbientesEDensenvSoftware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/natan0r/Entregavel03-AmbientesEDensenvSoftware/issues"
+  },
+  "homepage": "https://github.com/natan0r/Entregavel03-AmbientesEDensenvSoftware#readme"
+}
